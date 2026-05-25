@@ -6,7 +6,21 @@
 
 持续关注 **AI Testing / TestOps / 自动化测试 / 质量工程 / 代码 Diff 风险分析 / 测试平台建设**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adrian-Cai&style=for-the-badge)
+<p>
+  <a href="https://github.com/Adrian-Cai">
+    <img src="https://img.shields.io/badge/GitHub-Adrian--Cai-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://x.com/ImAcaiy">
+    <img src="https://img.shields.io/badge/X-@ImAcaiy-000000?style=for-the-badge&logo=x" />
+  </a>
+  <a href="mailto:imacaiy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-imacaiy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Adrian-Cai&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -14,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-我是一名拥有 **6年经验的测试开发工程师**，长期深耕软件质量保障、自动化测试、测试平台建设与 AI 测试实践。
+我是一名拥有 **6年经验的测试开发工程师**，长期深耕软件质量保障、自动化测试、测试平台建设与 AI 测试实践
 
 我的工作重点包括：
 
@@ -47,6 +61,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Testing
 
@@ -77,7 +92,7 @@
 
 ### 🤖 AI 自动化测试管理平台
 
-基于 **React + TypeScript + Express** 搭建自动化测试调度平台，对接 Jenkins 实现测试任务编排、并发控制、执行监控、结果回调和审计日志追踪。
+基于 **React + TypeScript + Express** 搭建自动化测试调度平台，对接 Jenkins 实现测试任务编排、并发控制、执行监控、结果回调和审计日志追踪
 
 - Website: https://autotest.wiac.xyz/
 - GitHub: https://github.com/acai1998/Automation_Platform
@@ -86,7 +101,7 @@
 
 ### 🧪 AI TestOps 测试用例设计工作台
 
-基于大模型能力实现需求文档解析、AI 需求抽取、测试用例生成、规则校验、人工评审和用例导出，沉淀测试设计闭环。
+基于大模型能力实现需求文档解析、AI 需求抽取、测试用例生成、规则校验、人工评审和用例导出，沉淀测试设计闭环
 
 - Website: https://ai-case.wiac.xyz/
 - GitHub: https://github.com/acai1998/AI-TestOps
@@ -95,7 +110,7 @@
 
 ### 📚 TestSkill-Hub 测试技能库
 
-沉淀接口测试生成、Bug 报告编写、回归范围分析等 AI 测试技能，提升测试设计与文档输出效率。
+沉淀接口测试生成、Bug 报告编写、回归范围分析等 AI 测试技能，提升测试设计与文档输出效率
 
 - GitHub: https://github.com/acai1998/TestSkill-Hub
 
@@ -132,24 +147,19 @@
 - 缺陷分析与测试文档生成
 
 ---
-
-## 📊 GitHub Stats
+## 📜 Github stats:
 
 <div align="center">
 
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-Cai&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Cai&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Adrian-Cai&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adrian-Cai&theme=github" width="390" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrian-Cai&theme=github" width="390" />
 
 </div>
 
----
 
 ## 📝 微信公众号
 
-我正在持续输出测试工程师成长、AI 测试、测试开发、质量工程、自动化测试工具与行业趋势相关内容。
+我正在持续输出测试工程师成长、AI 测试、测试开发、质量工程、自动化测试工具与行业趋势相关内容
 
 ### 公众号方向
 
@@ -164,9 +174,8 @@
 > 公众号名称：质量引擎  
 > 欢迎关注，一起交流测试开发与 AI 测试实践。
 
-<!-- 如果你有公众号二维码，可以把二维码图片上传到仓库，比如 assets/wechat-qrcode.png，然后取消下面这行注释 -->
 
-<!-- <img src="./assets/wechat-qrcode.png" width="220" alt="微信公众号二维码" /> -->
+<img src="./assets/qrcode_for_gh_75e6f4f95725_258.png" width="300" alt="微信公众号二维码" />
 
 ---
 
